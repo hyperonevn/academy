@@ -15,7 +15,7 @@ const Footer = () => {
 
         {/* Thông tin công ty */}
         <p className="font-medium text-gray-200">
-          CÔNG TY TNHH HYPER ONE CO., LTD
+         HYPER ONE CO., LTD
         </p>
         <p>68 Nguyễn Huệ, phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam</p>
 
