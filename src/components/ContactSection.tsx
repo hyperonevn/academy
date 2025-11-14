@@ -121,15 +121,15 @@ const ContactSection = () => {
 
               {/* ==== THÔNG TIN THANH TOÁN ==== */}
               <div className="mt-8 border-t border-gray-200 pt-6">
-                <h4 className="text-lg font-semibold mb-2">Thông Tin Thanh Toán</h4>
+                <h4 className="text-lg font-semibold mb-2"></h4>
                 <p>
-                  <span className="font-medium">Ngân hàng:</span> MB Bank
+                  <span className="font-medium"></span> 
                 </p>
                 <p>
-                  <span className="font-medium">Số tài khoản:</span> 624 68 68 68 68
+                  <span className="font-medium"></span> 
                 </p>
                 <p>
-                  <span className="font-medium">Chủ tài khoản:</span> CÔNG TY TNHH HYPER ONE
+                  <span className="font-medium"></span> 
                 </p>
               </div>
             </div>
